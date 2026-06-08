@@ -84,6 +84,7 @@ English | [中文](README-zh.md)
 + [Square](https://connect.squareup.com/) - Square offers easy credit card processing and complete solutions for every type of business.
 + [Wolfram Data Drop](https://www.wolfram.com/datadrop/quick-reference/web-api/) - Access to Wolfram Data Drop's RESTful API.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for trust scoring AI agent wallets on Solana. Query wallet identity, transaction history, and autonomy scores via API. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Calendar
 + [Google Calendar](https://developers.google.com/google-apps/calendar/) - The Google Calendar API lets you integrate your app with Google Calendar, creating new ways for you to engage your users.
 + [Outlook Calendar](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations) - The Calendar API provides access to events, calendar, and calendar group data secured by Azure Active Directory on Office 365, and to similar data in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
